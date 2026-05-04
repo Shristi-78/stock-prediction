@@ -55,7 +55,7 @@ This project is developed using \*\*Python 3.11\*\*\[cite: 2].
 Run the following command to install the necessary libraries:
 ```bash
 
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels tensorflow
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels tensorflow``` 
 
 
 ## 📊 Results \& Analysis
